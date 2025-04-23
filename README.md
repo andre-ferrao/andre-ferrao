@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do André Ferrão 😁
+## Bem-vindo(a) ao perfil do André Ferrão
 
  <div>
    <a href="https://github.com/andre-ferrao">
